@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - [2020 Kakao Summer Internship](https://www.kakaocorp.com) : Server Developer
 - [Samsung SW Academy For Youth (SSAFY)](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) : 2nd Seoul
-- [Dongduk Woman's University](https://www.dongduk.ac.kr/kor/main.do) : Business Administration, Computer Science 
+<!-- - [Dongduk Woman's University](https://www.dongduk.ac.kr/kor/main.do) : Business Administration, Computer Science -->
 
 <!-- - [buddev Tech Blog](https://buddev.tistory.com) -->
 
