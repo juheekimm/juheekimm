@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - [Samsung SW Academy For Youth (SSAFY)](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) : 2nd Seoul
 <!-- - [buddev Tech Blog](https://buddev.tistory.com) -->
 
-
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank">
@@ -41,6 +41,7 @@ Here are some ideas to get you started:
     <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
 </p>
+-->
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=yylcd99999)](https://solved.ac/yylcd99999)
 ![juheekimm's github stats](https://github-readme-stats.vercel.app/api?username=juheekimm&show_icons=true)
