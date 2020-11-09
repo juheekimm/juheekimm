@@ -15,16 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm juheeKim</h1>
+<h2 align="center">Hi 👋, I'm juhee</h2>
+
 <h3 align="center">Backend developer learning hard step by step</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juheekimm&label=Profile%20views&color=0e75b6&style=flat" alt="juheekimm" /> </p>
 
-- [Kakao Summer Internship | Server team](https://www.kakaocorp.com)
+- [2020 Kakao Summer Internship](https://www.kakaocorp.com) : Server Developer
 
-- [Samsung SW Academy For Youth | Seoul 2'nd](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
+- [Samsung SW Academy For Youth (SSAFY)](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) : 2nd Seoul
 
-- [buddev tech blog](https://buddev.tistory.com)
+- [buddev Tech Blog](https://buddev.tistory.com)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -43,6 +44,5 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-![juheekimm's github stats](https://github-readme-stats.vercel.app/api?username=juheekimm&show_icons=true)
-
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=yylcd99999)](https://solved.ac/yylcd99999)
+![juheekimm's github stats](https://github-readme-stats.vercel.app/api?username=juheekimm&show_icons=true)
